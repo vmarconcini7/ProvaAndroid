@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ProvaAndroid</string>
+    <string name="idade">Idade</string>
+    <string name="sexo">Sexo</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="escolaridade">Escolaridade</string>
+    <string name="casaPropria">Possui casa própria?</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="email">Enviar email</string>
+    <string name="voltar">Voltar</string>
+    <string name="escolhaCandidato">Escolha o candidato</string>
+    <string name="doria">Doria</string>
+    <string name="lula">Lula</string>
+    <string name="marina">Marina</string>
+    <string name="bolsonaro">Bolsonaro</string>
+    <string name="branco">Branco</string>
+    <string name="nulo">Nulo</string>
+    <string name="prosseguir">Prosseguir</string>
+
+    <string-array name="escolaridades">
+        <item>Analfabeto</item>
+        <item>Ensino Médio</item>
+        <item>Graduação</item>
+        <item>Pós graduação</item>
+    </string-array>
+</resources>
+
